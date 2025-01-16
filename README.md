@@ -44,3 +44,11 @@ Author: @johnpapa
 
 
 Author: @minimaxir
+
+## Output code in full - no abbreviations
+
+
+> "Create all files in full, without abbreviations. If you must truncate the output, output as much as you can, stopping at the end of the last file you can output in full. Inform the user. When the user asks you to continue or for the rest of the code, pick up where you left off."
+
+
+Author: @burkeholland
